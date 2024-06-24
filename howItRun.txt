@@ -1,0 +1,3 @@
+->run using (nodemon App.js).
+->In the template(index-2.hbs) i changed the FORM PART(line-867) and above the body tag i added the coded of J Querry to show the pop up.
+->In the assests->js->script.js(JQuerry->662) i added url: "sub", to run the code.
